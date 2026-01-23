@@ -12,7 +12,7 @@ Repositório com a EFI que utilizo no meu Hackintosh baseado na placa-mãe **MAC
 | ----------------- | ----------------------------------- | ------------------------------------ | ---------- |
 | Placa-mãe         | MACHINIST X99 PR9 (X99 mod chinesa) | ✅                                    |            |
 | CPU               | Xeon E5-2680 v4 (Broadwell-EP)      | ✅ Compatível                         |            |
-| GPU               | AMD Radeon RX 5500 XT (Navi)        | ✅ Excelente (Catalina → Sonoma)      |            |
+| GPU               | AMD Radeon RX 5500 XT (Navi)        | ✅ Excelente     |            |
 | Memória RAM       | 32 GB                               | ✅                                    |            |
 | Armazenamento     | SSD                                 | ✅                                    |            |
 | Wi‑Fi / Bluetooth | Intel AX210                         | ⚠️ Wi‑Fi não funciona / Bluetooth OK | ⚠️ Parcial |
